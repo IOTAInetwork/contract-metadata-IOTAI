@@ -1,0 +1,10 @@
+{
+  "eip:155:IOTAI/erc20:0xd8e154ede9401dabb860fe84fecd2761b895bc50": {
+    "name": "IOTAI",
+    "decimals": 18,
+    "symbol": "IOTAI",
+    "erc20": true,
+    "logo": "./icons/eip:155:IOTAI/erc20:0xd8e154ede9401dabb860fe84fecd2761b895bc50.png"
+  }
+}
+
